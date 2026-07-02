@@ -16,4 +16,4 @@ Python · FastAPI · Docker · LangChain · ChromaDB · Groq API · Streamlit ·
 
 ## Contact
 
-[www.linkedin.com/in/rahul-gupta-48779636b] · [rahulguptainps@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/rahul-gupta-48779636b) · [Email](mailto:rahulguptainps@gmail.com)
